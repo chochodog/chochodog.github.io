@@ -5,7 +5,6 @@ yt-video-id: FJ_YVQ1TwQI
 homedisplay: iframe
 title: TestVideo
 tags: [demo video, cafe, kotlin, android, node.js, react, html]
-category: [app, server, web, convenience]
 layout: post-material-sidebar-left
 ---
 ##### 카페 자리를 예약하고 예약된 자리를 관리하기 위한 시스템을 구축하기 위한 프로젝트입니다.
