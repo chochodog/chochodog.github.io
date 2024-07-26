@@ -1,13 +1,14 @@
 ---
 author: chanukPark
-type: youtube
-yt-video-id: FJ_YVQ1TwQI
-homedisplay: iframe
 title: TestVideo
 tags: [demo video, cafe, kotlin, android, node.js, react, html]
 layout: post-material-sidebar-left
 ---
 ##### 카페 자리를 예약하고 예약된 자리를 관리하기 위한 시스템을 구축하기 위한 프로젝트입니다.
+
+<br>
+<iframe width="788" height="394" src="https://www.youtube.com/embed/RtJcPfuj_Wg" title="3일만 내가 하자는 대로 해줄래?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br><br>
 #### 기능적 요구사항
 * 카페 사용자는 자리를 선점하기 위해 카페 자리 예약을 한다.
